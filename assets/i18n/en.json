@@ -1,0 +1,75 @@
+{
+  "categoey_equipment": "Equipment",
+  "categoey_automation": "Automation",
+  "categoey_intelligent": "Intelligent Logistics",
+  "categoey_quality": "Quality",
+  "categoey_production": "Production",
+  "categoey_energy": "Energy",
+  "categoey_bigdata": "Big Data",
+
+  "dpm_description": "Digital Performance Management",
+  "dpm_title": "DPM",
+  "dpm_link1_name": "P1",
+  "dpm_link2_name": "P3",
+
+  "epm_description": "Electronic Production Management",
+  "epm_title": "EPM",
+  "epm_link1_name": "GM View",
+  "epm_link2_name": "P1 Plant Manager View",
+  "epm_link3_name": "P1 Production View",
+  "epm_link4_name": "P5 Plant Manager View",
+  "epm_link5_name": "P5 Production View",
+
+  "smt_description": "SMT Cycle Time",
+  "smt_title": "SMT CT",
+  "smt_link1_name": "P1 Kanban",
+  "smt_link2_name": "P5 Kanban",
+  "smt_link3_name": "P1 Report",
+
+  "touchup_description": "Touchup Cycle Time Monitoring",
+  "touchup_title": "Touchup CT",
+  "touchup_link1_name": "P1 Kanban",
+
+  "visualization_description": "Production Visualization Management",
+  "visualization_title": "Visualization",
+  "visualization_link1_name": "P1 Kanban",
+
+  "psa_description": "PSA/PPM Monitoring",
+  "psa_title": "PSA PPM",
+  "psa_link1_name": "P1 Kanban",
+  "psa_link2_name": "P1 History Report",
+  "psa_link3_name": "P1 Abnormal Report",
+
+  "mounter_description": "Mounter Vacuum Monitoring",
+  "mounter_title": "Mounter Vacuum",
+  "mounter_link1_name": "P1 Kanban",
+  "mounter_link2_name": "P1 History Report",
+  "mounter_link3_name": "P1 Abnormal Report",
+
+  "dek_description": "DEK Vacuum Monitoring",
+  "dek_title": "DEK Vacuum",
+  "dek_link1_name": "P1 Kanban",
+  "dek_link2_name": "P1 History Report",
+  "dek_link3_name": "P1 Abnormal Report",
+
+  "fa_description": "FA Equipment Status Monitoring",
+  "fa_title": "FA Monitor",
+  "fa_link1_name": "P1 Kanban",
+  "fa_link2_name": "P1 Report",
+
+  "ats_description": "Auto Test & Robot Monitoring",
+  "ats_title": "ATS UR",
+  "ats_link1_name": "P1 Kanban",
+  "ats_link2_name": "P1 Report",
+
+  "eda_description": "Engineer Data Analysis",
+  "eda_title": "EDA",
+  "eda_link1_name": "Process Performance Report",
+
+  "energy_description": "Factory Energy Monitor",
+  "energy_title": "FEM",
+  "energy_link1_name": "WKS",
+  
+  "show_all": "Show All",
+  "hide_part": "Hide Parts"
+}

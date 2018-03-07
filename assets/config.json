@@ -1,0 +1,235 @@
+{
+  "theme": [
+    "Black",
+    "Grey"
+  ],
+  "language": [{
+      "name": "English",
+      "value": "en"
+    },
+    {
+      "name": "简体中文",
+      "value": "zh-cn"
+    },
+    {
+      "name": "繁體中文",
+      "value": "zh-tw"
+    }
+  ],
+  "category": [{
+      "categoryName": "categoey_equipment",
+      "cards": [{
+          "imgSrc": "PSA PPM.PNG",
+          "keywords": "psa ppm,PSA PPM",
+          "description": "psa_description",
+          "title": "psa_title",
+          "links": [{
+              "name": "psa_link1_name",
+              "url": "http://mic230.wks.wistron.com.cn/pse_control_kb/default.aspx"
+            },
+            {
+              "name": "psa_link2_name",
+              "url": "http://10.42.23.42/MIPSA501/"
+            },
+            {
+              "name": "psa_link3_name",
+              "url": "http://10.42.23.42/MIPSA502/"
+            }
+          ]
+        },
+        {
+          "imgSrc": "Mounter Vacuum.png",
+          "keywords": "mounter vacuum,MOUNTER VACUUM",
+          "description": "mounter_description",
+          "title": "mounter_title",
+          "links": [{
+              "name": "mounter_link1_name",
+              "url": "http://10.42.23.42/MTVACP/index.html"
+            },
+            {
+              "name": "mounter_link2_name",
+              "url": "http://10.42.23.42/MIMTVAC701/"
+            },
+            {
+              "name": "mounter_link3_name",
+              "url": "http://10.42.23.42/MIMTVAC702/"
+            }
+          ]
+        },
+        {
+          "imgSrc": "DEK Vacuum.png",
+          "keywords": "dek vacuum,DEK VACUUM",
+          "description": "dek_description",
+          "title": "dek_title",
+          "links": [{
+              "name": "dek_link1_name",
+              "url": "http://10.42.23.228/PTVAC/index.html"
+            },
+            {
+              "name": "dek_link2_name",
+              "url": "http://10.42.23.42/MIPTVAC701/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "categoey_automation",
+      "cards": [{
+          "imgSrc": "SMT CT.PNG",
+          "keywords": "smt ct,SMT CT",
+          "description": "smt_description",
+          "title": "smt_title",
+          "links": [{
+              "name": "smt_link1_name",
+              "url": "http://mic230.wks.wistron.com.cn/MIMTCT001/mtct001.html"
+            },
+            {
+              "name": "smt_link2_name",
+              "url": "http://mic232.wks.wistron.com.cn/MIMTCT001/mtct001.html"
+            },
+            {
+              "name": "smt_link3_name",
+              "url": "http://mic230.wks.wistron.com.cn/MISMTCT501/index.html"
+            }
+          ]
+        },
+        {
+          "imgSrc": "TouchUp CT.PNG",
+          "keywords": "touchup ct,TOUCHUP CT",
+          "description": "touchup_description",
+          "title": "touchup_title",
+          "links": [{
+            "name": "touchup_link1_name",
+            "url": "http://mic230.wks.wistron.com.cn/MIMTCT001/mtct001.html?dept=dip"
+          }]
+        },
+        {
+          "imgSrc": "ATS Monitor.png",
+          "keywords": "ats ur,ATS UR",
+          "description": "ats_description",
+          "title": "ats_title",
+          "links": [{
+              "name": "ats_link1_name",
+              "url": ""
+            },
+            {
+              "name": "ats_link2_name",
+              "url": ""
+            }
+          ]
+        },
+        {
+          "imgSrc": "FA Monitor.png",
+          "keywords": "fa monitor,FA MONITOR",
+          "description": "fa_description",
+          "title": "fa_title",
+          "links": [{
+              "name": "fa_link1_name",
+              "url": ""
+            },
+            {
+              "name": "fa_link2_name",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "categoey_intelligent",
+      "cards": []
+    },
+    {
+      "categoryName": "categoey_quality",
+      "cards": []
+    },
+    {
+      "categoryName": "categoey_production",
+      "cards": [{
+          "imgSrc": "12.svg",
+          "keywords": "dpm,DPM,數位化績效指標管理系統",
+          "description": "dpm_description",
+          "title": "dpm_title",
+          "links": [{
+              "name": "dpm_link1_name",
+              "url": "http://dpmf230.wks.wistron.com.cn"
+            },
+            {
+              "name": "dpm_link2_name",
+              "url": "http://dpmf337.wks.wistron.com.cn"
+            }
+          ]
+        },
+        {
+          "imgSrc": "EPM.PNG",
+          "keywords": "epm,EPM",
+          "description": "epm_description",
+          "title": "epm_title",
+          "links": [{
+              "name": "epm_link1_name",
+              "url": "http://10.42.23.113:81/epmMonitor/epmMonitorSite"
+            },
+            {
+              "name": "epm_link2_name",
+              "url": "http://10.42.23.113:81/epmMonitor/epmMonitorPlant"
+            },
+            {
+              "name": "epm_link3_name",
+              "url": "http://10.42.23.113:81/epmMonitor/epmMonitorMfg"
+            },
+            {
+              "name": "epm_link4_name",
+              "url": "http://10.42.23.113:81/epmMonitor/epmMonitorPlant"
+            },
+            {
+              "name": "epm_link5_name",
+              "url": "http://10.42.23.113:81/epmMonitor/epmMonitorMfg"
+            }
+          ]
+        },
+        {
+          "imgSrc": "Visualization.png",
+          "keywords": "visualization,VISUALIZATION",
+          "description": "visualization_description",
+          "title": "visualization_title",
+          "links": [{
+            "name": "visualization_link1_name",
+            "url": "http://10.42.23.228/VISKB/index.html"
+          }]
+        }
+      ]
+    },
+    {
+      "categoryName": "categoey_energy",
+      "cards": [{
+        "imgSrc": "energy.png",
+        "keywords": "fem,FEM,energy,Factory Energy Monitor",
+        "description": "energy_description",
+        "title": "energy_title",
+        "links": [{
+          "name": "energy_link1_name",
+          "url": "http://10.42.28.51:3009/"
+        }]
+      }]
+    },
+    {
+      "categoryName": "categoey_bigdata",
+      "cards": [{
+        "imgSrc": "11.svg",
+        "keywords": "eda,EDA",
+        "description": "eda_description",
+        "title": "eda_title",
+        "links": [{
+            "name": "eda_link1_name",
+            "url": "http://eda232.wks.wistron.com.cn/edaProcPerf.html"
+          },
+          {
+            "name": "CP/CPK Report",
+            "url": " http://eda232.wks.wistron.com.cn/edaCpCpk.html"
+          }
+        ]
+      }]
+    }
+  ]
+}

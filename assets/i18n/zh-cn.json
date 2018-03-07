@@ -1,0 +1,75 @@
+{
+  "categoey_equipment": "设备管理",
+  "categoey_automation": "自动化管理",
+  "categoey_intelligent": "智能物流管理",
+  "categoey_quality": "质量管理",
+  "categoey_production": "生产管理",
+  "categoey_energy": "能源管理",
+  "categoey_bigdata": "大数据管理",
+
+  "dpm_description": "数位化绩效管理",
+  "dpm_title": "DPM",
+  "dpm_link1_name": "P1",
+  "dpm_link2_name": "P3",
+
+  "epm_description": "电子化生产管理系统",
+  "epm_title": "EPM",
+  "epm_link1_name": "GM View",
+  "epm_link2_name": "P1 Plant Manager View",
+  "epm_link3_name": "P1 Production View",
+  "epm_link4_name": "P5 Plant Manager View",
+  "epm_link5_name": "P5 Production View",
+
+  "smt_description": "SMT生产设备C/T看板",
+  "smt_title": "SMT CT",
+  "smt_link1_name": "P1 Kanban",
+  "smt_link2_name": "P5 Kanban",
+  "smt_link3_name": "P1 Report",
+
+  "touchup_description": "Touchup 生产设备 C/T 看板",
+  "touchup_title": "Touchup CT",
+  "touchup_link1_name": "P1 Kanban",
+
+  "visualization_description": "生产资讯可视化管理",
+  "visualization_title": "Visualization",
+  "visualization_link1_name": "P1 Kanban",
+
+  "psa_description": "PSA 氮气机监控",
+  "psa_title": "PSA PPM",
+  "psa_link1_name": "P1 Kanban",
+  "psa_link2_name": "P1 History Report",
+  "psa_link3_name": "P1 Abnormal Report",
+
+  "mounter_description": "贴片机真空泵监控",
+  "mounter_title": "Mounter Vacuum",
+  "mounter_link1_name": "P1 Kanban",
+  "mounter_link2_name": "P1 History Report",
+  "mounter_link3_name": "P1 Abnormal Report",
+
+  "dek_description": "印刷机真空泵监控",
+  "dek_title": "DEK Vacuum",
+  "dek_link1_name": "P1 Kanban",
+  "dek_link2_name": "P1 History Report",
+  "dek_link3_name": "P1 Abnormal Report",
+
+  "fa_description": "FA生产设备监控",
+  "fa_title": "FA Monitor",
+  "fa_link1_name": "P1 Kanban",
+  "fa_link2_name": "P1 Report",
+
+  "ats_description": "自动测试 与 机械手臂监控",
+  "ats_title": "ATS UR",
+  "ats_link1_name": "P1 Kanban",
+  "ats_link2_name": "P1 Report",
+
+  "eda_description": "工程资料分析",
+  "eda_title": "EDA",
+  "eda_link1_name": "Process Performance Report",
+
+  "energy_description": "Factory Energy Monitor",
+  "energy_title": "FEM",
+  "energy_link1_name": "WKS",
+
+  "show_all": "显示所有",
+  "hide_part": "隐藏部分"
+}

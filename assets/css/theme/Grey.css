@@ -1,0 +1,55 @@
+/*background and text color*/
+
+body {
+  background: #dedede;
+  color: #414141;
+}
+
+
+/* link text color */
+
+a {
+  color: #757575;
+}
+
+
+/* header background */
+
+.products-nav-outer-wrapper {
+  background-color: #ccc;
+}
+
+
+/* selected category link text color */
+
+li button.current a {
+  color: #424242;
+}
+
+
+/* selected category link text bottom line color */
+
+.products-nav-list li.products-nav-item button.current {
+  border-bottom: 2px solid #4285f4;
+}
+
+
+/* language, theme, search icon color */
+
+.mat-icon-button {
+  color: #757575;
+}
+
+
+/* link text hover color */
+
+.products-nav .products-nav-item-button a:hover {
+  color: #4285f4;
+}
+
+
+/* card description hover color */
+
+.card:hover p {
+  color: #0072c6;
+}
